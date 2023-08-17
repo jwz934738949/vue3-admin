@@ -14,4 +14,5 @@ const app = createApp(App)
 app.use(ElementPlus, {
   locale: zhCn,
 })
+
 app.mount('#app')
