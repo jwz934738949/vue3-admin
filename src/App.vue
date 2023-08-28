@@ -1,8 +1,5 @@
 <template>
-  <div class="app">
-    <div class="header">abccccccc</div>
-  </div>
-  <el-button type="primary">element-button</el-button>
+  <router-view></router-view>
 </template>
 
 <script setup lang="ts">
